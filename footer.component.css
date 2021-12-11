@@ -1,0 +1,38 @@
+
+
+.footer{
+
+    bottom:0;
+    width: 100%;
+    position:sticky;
+    
+    top: 100%;
+    overflow: hidden;   
+    background-color: black;
+    padding: 40px 20px;
+
+}
+h1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+p{
+    color: white;
+    font-size: 15px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 20px 5px;
+    font-size: 15px;
+    
+}
+a:hover{
+    color: var(--primaey-color);
+
+}
+i{
+    padding-top: 0px 40px;
+color: var(--primaey-color);
+}
